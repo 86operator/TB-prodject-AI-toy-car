@@ -1,9 +1,11 @@
-# TB-prodject-AI-toy-car-Luf86_Operator
+# TB-prodject-RC-car-86_Operator
 # Introduction
-This is the project TB an AI companion that can be both home asistamt, follow you outside and also a gamer friend.
-I made this prodject since I have seen other people using AI some for gpu like nvidia and AMD and others talking to it, and other making AI waifus from them... Since they can make AI waifus why not make a friend who can both be an asistent and friend at the same time? And there is where the idea begins. I also plan in not making a deadline just to keep it working all day and update it with any suggestions people might have ot help or even feedback if any.
+This Project tries to make an AI RC car that is more like an assistant or friend in your day to day life. His role is to help you in any way he can. Whetear that is with your home automaiton (with home assistant) or play SOME video games with you or go outside with him he should be able to do all this.
 
-Start of the Prodject:
+# How to set up
+(Project has not began yet)
+
+# Start of the Prodject:
 ??/??/2027
 
 DeadLine:
